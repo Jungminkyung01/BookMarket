@@ -50,4 +50,14 @@ JSP프로젝트
  <img src="https://user-images.githubusercontent.com/97931260/233282960-9b0ff0ca-5d6c-410b-a3d7-ea9fea806bcb.png" style="width: 500px;">
 <img src="https://user-images.githubusercontent.com/97931260/233282975-5bb235a2-2d3d-4bd3-8a88-203cc4c4b839.png" style="width: 500px;">
 </div>
+<h5>독후감 리스트 / 글작성 페이지</h5>
+ <div>
+ <img src="https://user-images.githubusercontent.com/97931260/233284713-0798acfb-1929-4f3d-a852-eddd4a04cfc7.png" style="width: 500px;">
+<img src="https://user-images.githubusercontent.com/97931260/233284726-8fb5a350-1367-4c2b-9dbe-94062a11f5cf.png" style="width: 500px;">
+</div>
+<h5>글 상세/ 글 수정페이지</h5>
+ <div>
+ <img src="https://user-images.githubusercontent.com/97931260/233284732-33f31363-ac6c-4a64-bde5-e2893a4b5471.png" style="width: 500px;">
+<img src="https://user-images.githubusercontent.com/97931260/233284740-96f6da88-4d8f-4f21-b825-364d0c92ec5d.png" style="width: 500px;">
+</div>
 
