@@ -1,7 +1,7 @@
 # 📚BookMarket
 - JSP프로젝트
 - 개인 프로젝트
-<img src="https://user-images.githubusercontent.com/97931260/233304314-6e4f0376-d55a-42f2-abe4-1ac19ea0e923.png" style="width: 600px;">
+<img src="https://user-images.githubusercontent.com/97931260/233304314-6e4f0376-d55a-42f2-abe4-1ac19ea0e923.png" style="width: 700px;">
 <span>목업 이미지 출처:<a href="https://kr.freepik.com/free-psd/beautiful-computer-screen-mockup-ad-with-presentation-slides_14413289.htm#query=notebook&position=26&from_view=search&track=sph">작가 rawpixel.com</a> 출처 Freepik</span>
 
 <br>
