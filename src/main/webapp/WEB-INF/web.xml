@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<web-app>
+	<error-page>
+		<error-code>404</error-code>
+		<location>/exceptionNoPage.jsp</location>
+	</error-page>
+	<filter>
+		<filter-name>LogFilter</filter-name>
+		<filter-class>filter.LogFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>LogFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	<servlet>
+		<servlet-name>BoardController</servlet-name>
+		<servlet-class>board.BoardController</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>BoardController</servlet-name>
+		<url-pattern>*.do</url-pattern>
+	</servlet-mapping>
+</web-app>
