@@ -1,6 +1,11 @@
 # 📚BookMarket
-JSP프로젝트
+- JSP프로젝트
 - 개인 프로젝트
+이미지
+
+<h3>🔎프로젝트 소개</h3>
+
+<h3>🔎서비스 소개</h3>
 <hr>
 
 <hr>
@@ -60,4 +65,8 @@ JSP프로젝트
  <img src="https://user-images.githubusercontent.com/97931260/233284732-33f31363-ac6c-4a64-bde5-e2893a4b5471.png" style="width: 500px;">
 <img src="https://user-images.githubusercontent.com/97931260/233284740-96f6da88-4d8f-4f21-b825-364d0c92ec5d.png" style="width: 500px;">
 </div>
+<hr>
+<h3>🔎세부 구현</h3>
+
+<h3>🔎트러블 슈팅</h3>
 
