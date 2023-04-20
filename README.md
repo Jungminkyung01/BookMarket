@@ -4,7 +4,7 @@ JSP프로젝트
 <hr>
 
 <hr>
-<h2>개발 화면</h2>
+<h2>💻개발 화면</h2>
 <h5>로그인 / 회원가입 페이지</h5>
  <div>
  <img src="https://user-images.githubusercontent.com/97931260/233273369-d4fa521b-b0ca-42aa-9041-53909283fd16.png" style="width: 500px;">
