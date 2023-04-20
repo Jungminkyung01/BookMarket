@@ -35,8 +35,19 @@ JSP프로젝트
  <img src="https://user-images.githubusercontent.com/97931260/233279222-b5265dcf-b5c0-4f25-8213-8933fb9dd7dd.png" style="width: 500px;">
 <img src="https://user-images.githubusercontent.com/97931260/233279252-83289d22-cbea-4775-bb03-97c13b60fb41.png" style="width: 500px;">
 </div>
-<h5>배송정보 / 주문완료</h5>
+<h5>프로필(마이페이지)</h5>
  <div>
- <img src="https://user-images.githubusercontent.com/97931260/233279222-b5265dcf-b5c0-4f25-8213-8933fb9dd7dd.png" style="width: 500px;">
-<img src="https://user-images.githubusercontent.com/97931260/233279252-83289d22-cbea-4775-bb03-97c13b60fb41.png" style="width: 500px;">
+ <img src="https://user-images.githubusercontent.com/97931260/233281731-a487b440-8beb-4d41-8b44-336c3552d633.png" style="width: 500px;">
+<img src="https://user-images.githubusercontent.com/97931260/233281750-6a68806f-8f1a-4e43-9f9b-5ca54af432f1.png" style="width: 500px;">
 </div>
+<h5>회원정보 수정,탈퇴 / 도서등록 페이지</h5>
+ <div>
+ <img src="https://user-images.githubusercontent.com/97931260/233282420-ca2a7be0-c6b3-416a-9884-8e6b88a65a73.png" style="width: 500px;">
+<img src="https://user-images.githubusercontent.com/97931260/233282460-861c7229-93a5-44d7-a47e-439c5a2fd63a.png" style="width: 500px;">
+</div>
+<h5>도서 수정 페이지</h5>
+ <div>
+ <img src="https://user-images.githubusercontent.com/97931260/233282960-9b0ff0ca-5d6c-410b-a3d7-ea9fea806bcb.png" style="width: 500px;">
+<img src="https://user-images.githubusercontent.com/97931260/233282975-5bb235a2-2d3d-4bd3-8a88-203cc4c4b839.png" style="width: 500px;">
+</div>
+
